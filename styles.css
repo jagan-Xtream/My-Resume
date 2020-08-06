@@ -1,0 +1,18 @@
+
+.container h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: dodgerblue;
+}
+
+.container #details {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.container #details a {
+    color: dodgerblue;
+}
+
+.insider h3 {
+    color: dodgerblue;
+}
